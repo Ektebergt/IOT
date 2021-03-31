@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS `accounts` (
 /*!40000 ALTER TABLE `accounts` DISABLE KEYS */;
 INSERT INTO `accounts` (`id`, `username`, `password`, `email`) VALUES
 	(1, 'test', 'test', 'test@test.com'),
-	(2, 'test123', 'test123', 'milandevroome5@gmail.com'),
+	(2, 'test123', 'test123', 'test123@gmail.com'),
 	(3, 'testtest', 'test123123', 'test1234@hotmail.com');
 /*!40000 ALTER TABLE `accounts` ENABLE KEYS */;
 
